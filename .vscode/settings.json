@@ -1,0 +1,24 @@
+{
+    "editor.parameterHints.enabled": false,
+    "css.hover.documentation": false,
+    "less.hover.documentation": false,
+    "scss.hover.documentation": false,
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    },
+    "html.hover.documentation": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "javascript": true,
+        "html": false
+    },
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.acceptSuggestionOnEnter": "on"
+}
